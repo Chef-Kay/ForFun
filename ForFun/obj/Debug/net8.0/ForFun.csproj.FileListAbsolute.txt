@@ -1,0 +1,15 @@
+G:\vs\azureFunc\新建文件夹\ForFun\ForFun\bin\Debug\net8.0\ForFun.exe
+G:\vs\azureFunc\新建文件夹\ForFun\ForFun\bin\Debug\net8.0\ForFun.deps.json
+G:\vs\azureFunc\新建文件夹\ForFun\ForFun\bin\Debug\net8.0\ForFun.runtimeconfig.json
+G:\vs\azureFunc\新建文件夹\ForFun\ForFun\bin\Debug\net8.0\ForFun.dll
+G:\vs\azureFunc\新建文件夹\ForFun\ForFun\bin\Debug\net8.0\ForFun.pdb
+G:\vs\azureFunc\新建文件夹\ForFun\ForFun\obj\Debug\net8.0\ForFun.GeneratedMSBuildEditorConfig.editorconfig
+G:\vs\azureFunc\新建文件夹\ForFun\ForFun\obj\Debug\net8.0\ForFun.AssemblyInfoInputs.cache
+G:\vs\azureFunc\新建文件夹\ForFun\ForFun\obj\Debug\net8.0\ForFun.AssemblyInfo.cs
+G:\vs\azureFunc\新建文件夹\ForFun\ForFun\obj\Debug\net8.0\ForFun.csproj.CoreCompileInputs.cache
+G:\vs\azureFunc\新建文件夹\ForFun\ForFun\obj\Debug\net8.0\ForFun.sourcelink.json
+G:\vs\azureFunc\新建文件夹\ForFun\ForFun\obj\Debug\net8.0\ForFun.dll
+G:\vs\azureFunc\新建文件夹\ForFun\ForFun\obj\Debug\net8.0\refint\ForFun.dll
+G:\vs\azureFunc\新建文件夹\ForFun\ForFun\obj\Debug\net8.0\ForFun.pdb
+G:\vs\azureFunc\新建文件夹\ForFun\ForFun\obj\Debug\net8.0\ForFun.genruntimeconfig.cache
+G:\vs\azureFunc\新建文件夹\ForFun\ForFun\obj\Debug\net8.0\ref\ForFun.dll
