@@ -6,9 +6,13 @@ class Program
     {
         Random random = new Random();
 
+        // 提示用户输入State
+        Console.Write("Please enter your State: ");
+        string state = Console.ReadLine();
+
         // 生成随机字符
         char randomChar = (char)random.Next(65, 91); // 从 A 到 Z 的字符
-        Console.Write($"Here's your car nunber: {randomChar}");
+        Console.Write($"Here's your car nunber: {state}*{randomChar}");
 
         // 生成随机字符
         char randomChar1 = (char)random.Next(65, 91); // 从 A 到 Z 的字符
